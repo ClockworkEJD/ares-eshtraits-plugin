@@ -8,7 +8,7 @@ Rucket@AresCentral for Sheet Template Updates
 
 ## Overview
 
-PLEASE NOTE: I am no longer actively maintaining this plugin as I am no longer running an Ares game or keeping up with current patches. It was last known to work with version 1.4.0 successfully.
+PLEASE NOTE: This plugin has been updated for but not tested with v2.0.0-rc1. If you encounter any issues, let me know.
 
 This plugin creates a series of commands for setting Powers, Skills, Advantages, and Flaws on characters. It also contains instructions on integrating these into the web portal and character generation.
 
@@ -44,19 +44,19 @@ If you do not have any existing edits to these custom files, you can use the fil
 
 **Update with**: custom_files/chargen-custom.js
 
-**File**: ares-webportal/app/templates/components/chargen-custom.hbs
+**File**: ares-webportal/app/components/chargen-custom.hbs
 
 **Update with**: custom_files/chargen-custom.hbs
 
-**File**: ares-webportal/app/templates/components/chargen-custom-tabs.hbs
+**File**: ares-webportal/app/components/chargen-custom-tabs.hbs
 
 **Update with**: custom_files/chargen-custom-tabs.hbs
 
-**File**: ares-webportal/app/templates/components/profile-custom.hbs
+**File**: ares-webportal/app/components/profile-custom.hbs
 
 **Update with**: custom_files/profile-custom.hbs
 
-**File**: ares-webportal/app/templates/components/profile-custom-tabs.hbs
+**File**: ares-webportal/app/components/profile-custom-tabs.hbs
 
 **Update with**: custom_files/profile-custom-tabs.hbs
 
